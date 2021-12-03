@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "core/greet.proto";
+
+
+service GetEngine {
+    // Sends a greeting
+    rpc Hello (HelloRequest) returns (Engine);
+  }

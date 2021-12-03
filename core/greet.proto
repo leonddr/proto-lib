@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+message Scenario{
+  string id = 1;
+  string name = 2;
+}
+
+message Engine{
+  string name = 1;
+  string type = 2;
+
+}
+
+message HelloRequest{
+  string message = 1;
+}
