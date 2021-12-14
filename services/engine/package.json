@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.1",
   "devDependencies": {
-    "core": "1.x",
-    "lerna": "^4.0.0"
+    "core":"1.x"
+
   }
 }
