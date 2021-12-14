@@ -7,3 +7,8 @@ service GetScenario {
     // Sends a greeting
     rpc Hello (HelloRequest) returns (Scenario);
   }
+
+  service GetScenario2 {
+    // Sends a greeting
+    rpc Hello (HelloRequest) returns (Scenario);
+  }
