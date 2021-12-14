@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "core/greet.proto";
+import "greet.proto";
 
 
 service GetScenario {
