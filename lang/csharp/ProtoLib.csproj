@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Protobuf Include="../../core/*.proto"/>
-    <Protobuf Include="../../services/engine/*.proto" AdditionalImportDirs="../../core/"/>
-    <Protobuf Include="../../services/scenario/*.proto" AdditionalImportDirs="../../core/" />
+    <Protobuf Include="../../core/proto/*.proto"/>
+    <Protobuf Include="../../services/engine/*.proto" AdditionalImportDirs="../../core/proto/"/>
+    <Protobuf Include="../../services/scenario/*.proto" AdditionalImportDirs="../../core/proto/" />
   </ItemGroup>
 
 </Project>
