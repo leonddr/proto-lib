@@ -2,7 +2,7 @@
   "name": "engine-service",
   "private": true,
   "version": "2.0.0",
-  "devDependencies": {
+  "dependencies": {
     "core": "1.x"
   }
 }

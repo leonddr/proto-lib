@@ -2,8 +2,7 @@
   "name": "scenario-service",
   "private": true,
   "version": "1.0.2",
-  "devDependencies": {
-    "core": "1.x",
-    "lerna": "^4.0.0"
+  "dependencies": {
+    "core": "1.x"
   }
 }
