@@ -1,8 +1,8 @@
 {
   "name": "scenario-service",
   "private": true,
-  "version": "1.0.3",
+  "version": "2.0.0",
   "dependencies": {
-    "core": "1.x"
+    "core": "^2.0.0"
   }
 }
